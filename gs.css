@@ -58,5 +58,27 @@ tr:nth-child(even) {
 
 }
 
+.container{
+    display: flex;
+}
 
+img{
 
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+
+i{
+    padding-right: 5px;
+}
+
+nav{
+    display: flex;
+}
+
+li{
+   
+    list-style-type: none;
+    margin: 5px;
+}
